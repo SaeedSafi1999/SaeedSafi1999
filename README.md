@@ -35,23 +35,6 @@
     
 </div>
 
-<div align="center">
-  <h3>Web Development</h3>
-  <img src="https://img.shields.io/badge/RESTful APIs-8DD6F9?style=for-the-badge&logo=restful&logoColor=black" alt="RESTful APIs"/>
-  <img src="https://img.shields.io/badge/Web API-FFCA28?style=for-the-badge&logo=webapi&logoColor=black" alt="Web API"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/SEO-4B4B4B?style=for-the-badge&logo=seo&logoColor=white" alt="SEO"/>
-</div>
-
-<div align="center">
-  <h3>Tools & Platforms</h3>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
-  <img src="https://img.shields.io/badge/.NET MAUI-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET MAUI"/>
-</div>
-
 ### Contact Me
 
 <div align="center">
