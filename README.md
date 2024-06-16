@@ -63,15 +63,6 @@
   <img src="https://img.shields.io/badge/Kali Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
 </div>
 
----
-
-### Projects
-
-- **[Simagar](#simagar.com)**: Just search Simagar.
-
-
----
-
 ### Contact Me
 
 <div align="center">
@@ -84,8 +75,8 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErfanJalili&show_icons=true&theme=radical" alt="Your GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanJalili&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SaeedSafi1999&show_icons=true&theme=radical" alt="Your GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaeedSafi1999&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
 ---
