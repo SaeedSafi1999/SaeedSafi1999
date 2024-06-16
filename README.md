@@ -37,7 +37,6 @@
   <img src="https://img.shields.io/badge/RESTful APIs-8DD6F9?style=for-the-badge&logo=restful&logoColor=black" alt="RESTful APIs"/>
   <img src="https://img.shields.io/badge/Web API-FFCA28?style=for-the-badge&logo=webapi&logoColor=black" alt="Web API"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
   <img src="https://img.shields.io/badge/SEO-4B4B4B?style=for-the-badge&logo=seo&logoColor=white" alt="SEO"/>
 </div>
 
@@ -47,26 +46,13 @@
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
-  <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" alt="Xamarin"/>
   <img src="https://img.shields.io/badge/.NET MAUI-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET MAUI"/>
-</div>
-
-<div align="center">
-  <h3>Design & Multimedia</h3>
-  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop"/>
-  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator"/>
-  <img src="https://img.shields.io/badge/Adobe After Effects-CB1F7A?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="Adobe After Effects"/>
-</div>
-
-<div align="center">
-  <h3>Security & Testing</h3>
-  <img src="https://img.shields.io/badge/Kali Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
 </div>
 
 ### Contact Me
 
 <div align="center">
-  <a href="mailto:jalilierfan77@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:safi.saeed1999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/erfan-jalili-951a4b180"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
 
@@ -75,7 +61,6 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaeedSafi1999&show_icons=true&theme=radical" alt="Your GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaeedSafi1999&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
