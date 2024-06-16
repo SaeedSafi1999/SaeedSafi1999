@@ -16,11 +16,11 @@ Hi there! I'm a passionate backend developer specializing in .NET Core. I love c
                 <br>ASP.NET
             </td>
             <td align="center" width="96">
-                <img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" width="48" height="48" alt="ASP.NET MVC" />
+                <img src="https://avatars.githubusercontent.com/u/5935183?s=200&v=4" width="48" height="48" alt="ASP.NET MVC" />
                 <br>ASP.NET MVC
             </td>
             <td align="center" width="96">
-                <img src="https://raw.githubusercontent.com/github/explore/main/topics/rest-api/rest-api.png" width="48" height="48" alt="RestAPI" />
+                <img src="https://raw.githubusercontent.com/github/explore/main/topics/api/api.png" width="48" height="48" alt="RestAPI" />
                 <br>RestAPI
             </td>
             <td align="center" width="96">
@@ -60,7 +60,7 @@ Hi there! I'm a passionate backend developer specializing in .NET Core. I love c
                 <br>WPF
             </td>
             <td align="center" width="96">
-                <img src="https://raw.githubusercontent.com/github/explore/main/topics/entity-framework/entity-framework.png" width="48" height="48" alt="Entity Framework" />
+                <img src="https://raw.githubusercontent.com/github/explore/main/topics/entity-framework-core/entity-framework-core.png" width="48" height="48" alt="Entity Framework" />
                 <br>Entity Framework
             </td>
             <td align="center" width="96">
@@ -88,7 +88,7 @@ Designed an API gateway to manage and secure traffic between various microservic
 
 ## Let's Connect!
 - [LinkedIn](https://www.linkedin.com/)
-- [Email](mailto:safi.saeed1999@gmail.com)
+- [Twitter](https://twitter.com/)
+- [Email](mailto:your.email@example.com)
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration opportunities.
-
